@@ -5,7 +5,7 @@
  * Chapter :    12 - GPS tracking app with Google Maps
 
 Adafruit_SSD1306 Class Reference </br>
-https://adafruit.github.io/Adafruit_SSD1306/html/class_adafruit___s_s_d1306.html
+https://adafruit.github.io/Adafruit_SSD1306/html/class_adafruit___s_s_d1306.html </br>
 Adafruit GFX Library</br>
-https://adafruit.github.io/Adafruit-GFX-Library/html/class_adafruit___g_f_x.html
+https://adafruit.github.io/Adafruit-GFX-Library/html/class_adafruit___g_f_x.html </br>
 
