@@ -6,6 +6,6 @@
 
 Adafruit_SSD1306 Class Reference </br>
 https://adafruit.github.io/Adafruit_SSD1306/html/class_adafruit___s_s_d1306.html </br>
-Adafruit GFX Library</br>
+Adafruit_GFX Class Reference</br>
 https://adafruit.github.io/Adafruit-GFX-Library/html/class_adafruit___g_f_x.html </br>
 
